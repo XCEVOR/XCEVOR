@@ -6,9 +6,7 @@
 🌟 My coding journey is all about continuous growth and giving back to the coding community. 
 </br></br>
 🚀 Let's embark on this coding journey together!
-</br></br></br>
-* 🖥️ For more information about me, please visit my [portfolio](http://portfolio.xcevor.com) website.
-* ✉️ You can contact me at [xcevor@gmail.com](mailto:xcevor@gmail.com).
+
 
 </br></br>
 
