@@ -1,9 +1,9 @@
 # Hi, I'm HOCHAN 👋 
-✨I'm a web developer based in Korea. My journey in the world of coding has just begun, and I'm excited to share my passion for programming with you. 
+✨I'm a developer who brings the world to life through code.
 </br></br><img align="right" height="160" src="https://github.com/XCEVOR/XCEVOR/assets/111336041/cc9b0375-45ca-4472-90c0-26ce8608c7f0">
-💻 As a web developer, I'm on the path to becoming a full-stack developer. On the backend, I've been diving into Java with the Spring framework, while on the frontend, designing projects with React and JavaScript brings me joy. I find delight in learning programming languages and technologies. 
+💻 I turn creative ideas into reality and build innovative projects. With a passion for new challenges, I grow through solving problems.
 </br></br>
-🌟 My coding journey is all about continuous growth and giving back to the coding community. 
+🌟 This repository is a chronicle of my journey and learning experiences.
 </br></br>
 🚀 Let's embark on this coding journey together!
 
