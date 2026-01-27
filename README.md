@@ -123,7 +123,7 @@
 <p><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=XCEVOR&locale=en&layout=compact&theme=gotham&count_private=true" alt="XCEVOR" /></p>
 <p><img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=XCEVOR&locale=en&layout=compact&theme=gotham&count_private=true" alt="XCEVOR" /></p>
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=XCEVOR)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=XCEVOR&theme=gotham)](https://github.com/pranesh-2005/github-readme-stats-fast)
 </br></br>
 
 <p><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=YourUsername&theme=transparent&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000/> 
